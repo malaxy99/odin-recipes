@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: #000000;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.header {
+    background-color: pink;
+    height: ;
+    
+}
+
+ul {
+    line-height: 1.5;
+}
+
